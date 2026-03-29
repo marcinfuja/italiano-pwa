@@ -14,9 +14,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Italiano A1 - Ucz się włoskiego",
-  description: "Aplikacja PWA do nauki języka włoskiego na poziomie A1",
+  title: "Italiano A1 - Ucz się",
+  description: "Aplikacja PWA do nauki języka włoskiego",
   manifest: "/manifest.json",
+  icons: {
+    icon: "/icon.svg",
+    apple: "/icon.svg"
+  },
+  appleWebApp: {
+    capable: true,
+    title: "Italiano",
+    statusBarStyle: "black-translucent"
+  },
+  formatDetection: {
+    telephone: false,
+  }
 };
 
 export const viewport: Viewport = {
