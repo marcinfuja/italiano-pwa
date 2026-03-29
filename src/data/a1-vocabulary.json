@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word-1",
+    "italian": "Ciao",
+    "polish": "Cześć / Do widzenia",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Ciao, come stai?"
+  },
+  {
+    "id": "word-2",
+    "italian": "Buongiorno",
+    "polish": "Dzień dobry (rano)",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Buongiorno a tutti!"
+  },
+  {
+    "id": "word-3",
+    "italian": "Buonasera",
+    "polish": "Dobry wieczór",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Buonasera signora."
+  },
+  {
+    "id": "word-4",
+    "italian": "Arrivederci",
+    "polish": "Do widzenia",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Arrivederci, a domani."
+  },
+  {
+    "id": "word-5",
+    "italian": "Grazie",
+    "polish": "Dziękuję",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Tante grazie!"
+  },
+  {
+    "id": "word-6",
+    "italian": "Prego",
+    "polish": "Proszę (nie ma za co)",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Di niente, prego."
+  },
+  {
+    "id": "word-7",
+    "italian": "Per favore",
+    "polish": "Poproszę / Proszę",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Un caffè, per favore."
+  },
+  {
+    "id": "word-8",
+    "italian": "Sì",
+    "polish": "Tak",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Sì, va bene."
+  },
+  {
+    "id": "word-9",
+    "italian": "No",
+    "polish": "Nie",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "No, grazie."
+  },
+  {
+    "id": "word-10",
+    "italian": "Scusa",
+    "polish": "Przepraszam",
+    "type": "word",
+    "level": "Lekcja 1: Powitania",
+    "example": "Scusa, non capisco."
+  },
+  {
+    "id": "word-11",
+    "italian": "Uno",
+    "polish": "Jeden",
+    "type": "word",
+    "level": "Lekcja 2: Liczby",
+    "example": "Ho uno zio."
+  },
+  {
+    "id": "word-12",
+    "italian": "Due",
+    "polish": "Dwa",
+    "type": "word",
+    "level": "Lekcja 2: Liczby",
+    "example": "Due caffè."
+  },
+  {
+    "id": "word-13",
+    "italian": "Tre",
+    "polish": "Trzy",
+    "type": "word",
+    "level": "Lekcja 2: Liczby",
+    "example": "Tre amici."
+  },
+  {
+    "id": "word-14",
+    "italian": "Quattro",
+    "polish": "Cztery",
+    "type": "word",
+    "level": "Lekcja 2: Liczby",
+    "example": "Quattro gatti."
+  },
+  {
+    "id": "word-15",
+    "italian": "Cinque",
+    "polish": "Pięć",
+    "type": "word",
+    "level": "Lekcja 2: Liczby",
+    "example": "Sono le cinque."
+  },
+  {
+    "id": "sentence-1",
+    "italian": "Come ti chiami?",
+    "polish": "Jak się nazywasz?",
+    "type": "sentence",
+    "level": "Lekcja 3: Zwroty",
+    "example": ""
+  },
+  {
+    "id": "sentence-2",
+    "italian": "Di dove sei?",
+    "polish": "Skąd jesteś?",
+    "type": "sentence",
+    "level": "Lekcja 3: Zwroty",
+    "example": ""
+  },
+  {
+    "id": "sentence-3",
+    "italian": "Io sono polacco/polacca.",
+    "polish": "Jestem Polakiem/Polką.",
+    "type": "sentence",
+    "level": "Lekcja 3: Zwroty",
+    "example": ""
+  },
+  {
+    "id": "sentence-4",
+    "italian": "Piacere di conoscerti.",
+    "polish": "Miło mi cię poznać.",
+    "type": "sentence",
+    "level": "Lekcja 3: Zwroty",
+    "example": ""
+  },
+  {
+    "id": "sentence-5",
+    "italian": "Non parlo bene l'italiano.",
+    "polish": "Nie mówię dobrze po włosku.",
+    "type": "sentence",
+    "level": "Lekcja 3: Zwroty",
+    "example": ""
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "Italiano A1",
+  "short_name": "Italiano",
+  "description": "Aplikacja PWA do nauki języka włoskiego na poziomie A1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
